@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate frontend developer from Brussels (Belgium)</h3>
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Ruby on rails**
 
 - 📫 Please contact me at **sebastien.verbist@hotmail.com**
 
