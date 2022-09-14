@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate frontend developer from Brussels (Belgium)</h3>
 
-- 🌱 I’m currently learning **Ruby on rails, CSS, HTML, JavaScript** <br>
+- 🌱 I’m currently learning **Ruby on rails, CSS, HTML & JavaScript** <br>
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
